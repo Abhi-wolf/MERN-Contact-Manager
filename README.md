@@ -20,10 +20,6 @@ Welcome to Contact Manager, a fullstack web application built using the MERN sta
 - **Toast Notifications:** Sonner
 
 ## Installation
-
-1. Clone the repository:
-
-```bash
 git clone https://github.com/Abhi-wolf/MERN-Contact-Manager.git
 Save to grepper
 Navigate to the project directory:
