@@ -21,9 +21,8 @@ Welcome to Contact Manager, a fullstack web application built using the MERN sta
 
 ## Installation
 git clone https://github.com/Abhi-wolf/MERN-Contact-Manager.git
-Save to grepper
+
 Navigate to the project directory:
-bash
 Copy code
 cd contact-manager
 
